@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\z6fsl\\source\\repos\\PyramidChallengeApp\\PyramidChallengeDomain\\PyramidChallengeDomain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\z6fsl\\source\\repos\\PyramidChallengeApp\\PyramidChallengeDomain\\PyramidChallengeDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\z6fsl\\source\\repos\\PyramidChallengeApp\\PyramidChallengeDomain\\PyramidChallengeDomain.csproj",
+        "projectName": "PyramidChallengeDomain",
+        "projectPath": "C:\\Users\\z6fsl\\source\\repos\\PyramidChallengeApp\\PyramidChallengeDomain\\PyramidChallengeDomain.csproj",
+        "packagesPath": "C:\\Users\\z6fsl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\z6fsl\\source\\repos\\PyramidChallengeApp\\PyramidChallengeDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\z6fsl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://sjtfs.kmd.dk:8080/tfs/DefaultCollection/_packaging/WorkZoneNuGet/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
